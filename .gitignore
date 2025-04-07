@@ -2,5 +2,3 @@ e2e-data-engineering-main/
 local_docker_kafka_project1/
 documentation/
 spark_stream_spark_submit_only.py
-# Ignore all .log files
-hs_err_pid25700.log
