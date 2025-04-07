@@ -6,6 +6,9 @@
 
 This repo holds the code for a real-time data pipeline that streams data from an API, processes it with **Kafka** and **Spark**, and stores it in **Cassandra**. **Airflow** automates the workflow, and **Docker** makes it easy to run.
 
+This project is fully documented in a [Medium article series](https://medium.com/@jushijun/building-a-real-time-data-pipeline-with-apache-airflow-kafka-spark-and-cassandra-be4ee5be8843).
+
+
 ## Key Files:
 
 - docker-compose.yml: Sets up Kafka, Spark, Cassandra, and Airflow.
@@ -29,10 +32,6 @@ This repo holds the code for a real-time data pipeline that streams data from an
 ## Purpose:
 
 It’s a practical project to show how I build and automate data pipelines with real-time tools.
-
-## Learn More
-
-This project is fully documented in a [Medium article series](https://medium.com/@jushijun/building-a-real-time-data-pipeline-with-apache-airflow-kafka-spark-and-cassandra-be4ee5be8843).
 
 
 ## References
